@@ -9,7 +9,6 @@ import styles from "./BuildInPublicCarousel.module.scss";
 
 import linkPost1 from "../../../assets/images/Socials/linkPost1.png";
 import linkPost2 from "../../../assets/images/Socials/linkPost2.png";
-import linkPost3 from "../../../assets/images/Socials/linkPost3.png";
 import xPost1 from "../../../assets/images/Socials/xPost1.png";
 import xPost2 from "../../../assets/images/Socials/xPost2.png";
 import xPost3 from "../../../assets/images/Socials/xPost3.png";
@@ -47,14 +46,6 @@ const posts = [
     summary:
       "Developers in 2025 will ship 5× faster when they pair founder-mode thinking with AI-powered execution. Slow engineers aren't getting replaced by AI — they're getting replaced by devs who know how to build with it.",
     link: "https://x.com/arka_codes/status/1982832159036432523",
-  },
-  {
-    image: linkPost3,
-    platform: "linkedin",
-    title: "A production-ready SaaS in ≤21 days",
-    summary:
-      "Building a scalable SaaS MVP isn't about writing code — it's about designing systems that don't break when success hits. Next.js App Router + MongoDB + edge APIs = founder-friendly production launches.",
-    link: "https://www.linkedin.com/posts/arkalal_building-a-scalable-saas-mvp-isnt-just-about-activity-7393490086593605632-sdBk",
   },
   {
     image: xPost3,

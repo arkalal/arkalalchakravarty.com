@@ -192,7 +192,7 @@ const GlobalCollaboration = () => {
       >
         <div className={styles.textContent}>
           <motion.span className={styles.sectionTag} variants={itemVariants}>
-            Collaboration
+            Work
           </motion.span>
           <motion.h2 className={styles.headline} variants={itemVariants}>
             Building with <span className={styles.highlight}>Global Teams</span>

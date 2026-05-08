@@ -290,7 +290,7 @@ const NewHero = () => {
             <span className={styles.roleHighlight}>AI Specialist</span> <br />
             <span className={styles.statusBadge}>
               <span className={styles.statusDot}></span>
-              Open to Collaborate
+              Open to Work
             </span>
           </motion.h2>
 
